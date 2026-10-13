@@ -1,2 +1,1 @@
-# scamcheck
-ScamCheck — a free scam detector that warns users before they connect to phishing sites, fake dApps, and wallet drainers.
+# ScamCheck — A free scam detector that warns users before they connect to phishing sites, fake dApps, and wallet drainers. Paste a suspicious link or sender address; get a plain-English verdict in seconds. Built with open-source tooling. MIT license. Project home — full build in progress.
